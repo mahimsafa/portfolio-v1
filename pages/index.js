@@ -10,7 +10,8 @@ export default function Home() {
       <div className={styles.forest}>
 
         <Head>
-        <title>Mahim Safa !</title>
+        <title>Mahim Safa ! ! Virtual Profile</title>
+        <meta property="og:title"              content="Mahim Safa ! Virtual Profile" />
       </Head>
       
         <div className={styles.container}>

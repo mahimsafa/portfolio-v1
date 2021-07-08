@@ -20,6 +20,7 @@ const Activities = () => {
     return (
         <>
         <Head>
+        <meta property="og:title"              content="Activities | Mahim Safa" />
         <title>Activities | Mahim Safa</title>
         </Head>
         <div className={styles.container}>
