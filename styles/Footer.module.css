@@ -1,0 +1,24 @@
+.container {
+    width: 100%;
+    height: auto;
+    font-family: 'Zen Loop', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.container i {
+    color: red;
+}
+
+.container a {
+    color: white;
+}
+
+.container a:hover{
+    color: rgb(211, 211, 211);
+    cursor: pointer;
+}
