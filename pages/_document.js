@@ -9,6 +9,7 @@ class MyDocument extends Document {
   render() {
     return (
       <Html>
+        <meta name="google-site-verification" content="5s8aAeBPADvwNK8bivlCfaVW2IobKKorUqUEvBwMOl0" />
         <meta property="og:url"                content="mahimsafa.github.io" />
         <meta property="og:image"              content="https://mahimsafa.github.io/images/me/me1.jpg" />
         <link rel="shortcut icon" href="favicon/favicon.ico" />
