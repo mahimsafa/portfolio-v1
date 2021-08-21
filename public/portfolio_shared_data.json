@@ -1,0 +1,83 @@
+{
+    "basic_info": {
+      "name": "Mahim Safa",
+      "titles": [ "Cyber Security Enthusiastic","Developer", "Bug Hunter", "Penetration Tester"],
+      "social": [
+        {
+          "name": "Github",
+          "url": "https://github.com/mahimsafa",
+          "class": "fab fa-github hvr-ef"
+        },
+        {
+          "name": "Instagram",
+          "url": "https://instagram.com/mahim_safa",
+          "class": "fab fa-instagram hvr-ef"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/mahim_safa",
+          "class": "fab fa-twitter hvr-ef"
+        }
+      ],
+      "image": "dp.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "NojeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "70"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "Bash",
+          "class": "devicon-bash-plain",
+          "level": "60"
+        },
+        {
+          "name": "Flask",
+          "class": "devicon-flask-original",
+          "level": "70"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "60"
+        },
+        {
+          "name": "ExpressJS",
+          "class": "devicon-express-original",
+          "level": "70"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }

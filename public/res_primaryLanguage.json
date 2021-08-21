@@ -1,0 +1,58 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Mahim Safa. I am a Cyber Security Enthusiastic as well as a Web Developer based in Bangladesh. I am a quick learner. I try to learn about new Technologies and other things every day as much as I can. Like to play games in my free time. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience",
+      "contact": "Contact"
+    }
+  },
+  "projects": [
+    {
+      "title": "Video Calling",
+      "startDate": "2020",
+      "description": "This is a basic video calling app. User can use this app without an account. whenever a user visit the web page he/she will be given an unique ID. He/She then needs to send the ID to other person he/she wants to call. Then the other person will use the id to call them. One ID can only be used for one call.",
+      "images": [
+        "images/portfolio/video-app/p1.png",
+        "images/portfolio/video-app/p2.png"
+      ],
+      "url": "https://mahims-personal-video-chat.netlify.app/",
+      "technologies": [
+        {
+          "class": "fab fa-react",
+          "name": "React"
+        },
+        {
+          "class": "fab fa-node",
+          "name": "Noje JS"
+        },
+        {
+          "class": "devicon-heroku-original",
+          "name": "Heroku"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Byte Capsule Ltd.",
+      "title": "Jr. Security Analyst",
+      "years": "11.2020 - present",
+      "mainTech": [
+        "Cyber Security"
+      ],
+      "classes": "fas fa-user-secret experience-icon",
+      "technologies": [
+        "Python",
+        "JavaScript",
+        "REST API",
+        "Web App Testing",
+        "Scripting",
+        "Automation"
+      ]
+    }
+  ]
+}
